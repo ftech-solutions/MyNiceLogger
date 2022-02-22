@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/MyNiceLogger.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		faSeUZ1dS+1lPHEVRYzu9CJNqCM=
+		KqTjg32MLxksSlxayvgAqSPRgrM=
 		</data>
 		<key>Modules/MyNiceLogger.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/MyNiceLogger.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		faSeUZ1dS+1lPHEVRYzu9CJNqCM=
+		KqTjg32MLxksSlxayvgAqSPRgrM=
 		</data>
 		<key>Modules/MyNiceLogger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/MyNiceLogger.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		reZ/gtpVsXK4dcpw+YFGXxRu7+A=
+		TthFDmH0kDvF6lIntBKs61yBOd4=
 		</data>
 		<key>Modules/MyNiceLogger.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/MyNiceLogger.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		reZ/gtpVsXK4dcpw+YFGXxRu7+A=
+		TthFDmH0kDvF6lIntBKs61yBOd4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tVNIaVhg7sj4KzL23bE2ueDgn9HwxDcfx4zVXHBfqQ0=
+			4aeoSgwbcS1WVds8BNQOS0DlEzNUQYzkRZJpMPTNli0=
 			</data>
 		</dict>
 		<key>Modules/MyNiceLogger.swiftmodule/arm64.swiftdoc</key>
@@ -124,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tVNIaVhg7sj4KzL23bE2ueDgn9HwxDcfx4zVXHBfqQ0=
+			4aeoSgwbcS1WVds8BNQOS0DlEzNUQYzkRZJpMPTNli0=
 			</data>
 		</dict>
 		<key>Modules/MyNiceLogger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J55qdA8lKadgmHRpzZFDTPC4Ao/ZQMMbCWjij2UE5XU=
+			hgkQ/5+zJjdszjXS4RBtUvrgY3SPs7HFKHkHFsYOqUo=
 			</data>
 		</dict>
 		<key>Modules/MyNiceLogger.swiftmodule/x86_64.swiftdoc</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J55qdA8lKadgmHRpzZFDTPC4Ao/ZQMMbCWjij2UE5XU=
+			hgkQ/5+zJjdszjXS4RBtUvrgY3SPs7HFKHkHFsYOqUo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
